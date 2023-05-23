@@ -1,0 +1,1 @@
+# symlink-lambda-workaround-js-sdk
